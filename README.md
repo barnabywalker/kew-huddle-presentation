@@ -6,4 +6,6 @@ A Quarto presentation with an overview of work I did at Kew, briefly covering:
 * Machine learning to predict plant extinction risk
 * Representation learning with herbarium specimen images
 
-It's pretty barebones - follow the link!
+It's pretty barebones - follow the links in the presentation!
+
+[Look at the presentation here](https://barnabywalker.github.io/kew-huddle-presentation/).
